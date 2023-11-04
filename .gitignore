@@ -1,2 +1,3 @@
 # 除外
 secret_key/client_secret_.apps.googleusercontent.com.json
+token.pickle
